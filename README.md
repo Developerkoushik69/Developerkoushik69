@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developerkoushik69&label=Profile%20views&color=0e75b6&style=flat" alt="developerkoushik69" /> </p>
 
-<p align="left"> <a href="https://twitter.com/koushik_69" target="blank"><img src="https://img.shields.io/twitter/follow/koushik_69?logo=twitter&style=for-the-badge" alt="koushik_69" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@KoushikAdh31955" target="blank"><img src="https://img.shields.io/twitter/follow/@KoushikAdh31955?logo=twitter&style=for-the-badge" alt="@KoushikAdh31955" /></a> </p>
 
 - 📫 How to reach me **koushik.adhikary2008@gmail.com**
 
